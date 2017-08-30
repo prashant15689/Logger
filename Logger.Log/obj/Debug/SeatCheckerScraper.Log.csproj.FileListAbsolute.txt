@@ -1,0 +1,9 @@
+D:\Projects\SeatCheckerWebScraper\SeatCheckerScraper.Log\bin\Debug\SeatMapChecker.Log.dll
+D:\Projects\SeatCheckerWebScraper\SeatCheckerScraper.Log\bin\Debug\SeatMapChecker.Log.pdb
+D:\Projects\SeatCheckerWebScraper\SeatCheckerScraper.Log\obj\Debug\SeatMapChecker.Log.dll
+D:\Projects\SeatCheckerWebScraper\SeatCheckerScraper.Log\obj\Debug\SeatMapChecker.Log.pdb
+D:\Projects\SeatCheckerWebScraperService\SeatCheckerScraper.Log\bin\Debug\SeatMapChecker.Log.dll
+D:\Projects\SeatCheckerWebScraperService\SeatCheckerScraper.Log\bin\Debug\SeatMapChecker.Log.pdb
+D:\Projects\SeatCheckerWebScraperService\SeatCheckerScraper.Log\obj\Debug\SeatMapChecker.Log.dll
+D:\Projects\SeatCheckerWebScraperService\SeatCheckerScraper.Log\obj\Debug\SeatMapChecker.Log.pdb
+D:\Projects\SeatCheckerWebScraperService\SeatCheckerScraper.Log\obj\Debug\SeatCheckerScraper.Log.csprojResolveAssemblyReference.cache

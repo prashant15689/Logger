@@ -1,0 +1,5 @@
+C:\Users\prashants2\Desktop\SeatMapCheckerWinApp\SeatMapChecker.Log\bin\Debug\SeatMapChecker.Log.dll
+C:\Users\prashants2\Desktop\SeatMapCheckerWinApp\SeatMapChecker.Log\bin\Debug\SeatMapChecker.Log.pdb
+C:\Users\prashants2\Desktop\SeatMapCheckerWinApp\SeatMapChecker.Log\obj\Debug\SeatMapChecker.Log.dll
+C:\Users\prashants2\Desktop\SeatMapCheckerWinApp\SeatMapChecker.Log\obj\Debug\SeatMapChecker.Log.pdb
+C:\Users\prashants2\Desktop\SeatMapCheckerWinApp\SeatMapChecker.Log\obj\Debug\SeatMapChecker.Log.csprojResolveAssemblyReference.cache
