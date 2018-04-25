@@ -1,0 +1,5 @@
+D:\Prashant\Logging\Logging\bin\Debug\Logging.dll
+D:\Prashant\Logging\Logging\bin\Debug\Logging.pdb
+D:\Prashant\Logging\Logging\obj\Debug\Logging.csproj.CoreCompileInputs.cache
+D:\Prashant\Logging\Logging\obj\Debug\Logging.dll
+D:\Prashant\Logging\Logging\obj\Debug\Logging.pdb

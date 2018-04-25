@@ -1,0 +1,9 @@
+D:\Prashant\Logging\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Prashant\Logging\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Prashant\Logging\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Prashant\Logging\ConsoleApplication1\bin\Debug\Logging.dll
+D:\Prashant\Logging\ConsoleApplication1\bin\Debug\Logging.pdb
+D:\Prashant\Logging\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\Prashant\Logging\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Prashant\Logging\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\Prashant\Logging\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.CoreCompileInputs.cache

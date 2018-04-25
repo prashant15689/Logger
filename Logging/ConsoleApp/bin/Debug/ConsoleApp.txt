@@ -1,0 +1,2 @@
+25-04-2018 20:24:44 - Program - Test info
+25-04-2018 20:24:44 - Program - Test error
